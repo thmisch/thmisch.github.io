@@ -20,4 +20,4 @@ So, if you're feeling generous, donate some crypto and let's make some magic hap
 848wMFSjhLRDMCVBVFg5Ux2xBrh3jCS5PgT96tvzy5RiCYSswiaARGfPjYszhZXVLoYCJHogGxwaN6XsRCvJQLgHAZdcb7B
 ```
 
-Thank you so much for your support, it means the world to me! <3
+Thank you so much for your support, it means the world to me! ❤️
