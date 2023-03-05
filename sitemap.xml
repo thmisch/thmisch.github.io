@@ -4,11 +4,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc> /blog/</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
-<url><loc> /unlicense.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
-<url><loc> /contact.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
-<url><loc> /index.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
-<url><loc> /donate.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
-<url><loc> /projects.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
-<url><loc> /about.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://thmisch.github.io/blog/</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://thmisch.github.io/unlicense.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://thmisch.github.io/contact.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://thmisch.github.io/index.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://thmisch.github.io/donate.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://thmisch.github.io/projects.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://thmisch.github.io/about.html</loc><lastmod>2023-03-05</lastmod><priority>1.0</priority></url>
 </urlset>
