@@ -1,0 +1,15 @@
+body{font-family:sans-serif;background:#282828;color:#ebdbb2;
+	padding:2em;margin:auto;max-width:900px;}
+a{color:#b16286;text-decoration:none;}
+a:hover{color:#d3869b;text-decoration:none;transition: 0.18s all ease-out;}
+.nav{margin-bottom:1em;}
+h1{text-align:center;color:#efe3c2;}
+h2,h3,h4,h5,h6{color:#efe3c2;}
+table,th,td{text-align:center;border-collapse:collapse;}
+.footer{margin-top:1em;font-size:0.75em;text-align:center;}
+@media only screen and (max-width:512px){
+body{font-size:110%;}
+a{text-decoration:none;font-size:112%;}
+a:hover{text-decoration:none;}}
+pre{background:#1d2021;width:min-content;padding:0.8em;border:1px solid #3c3836;
+  border-radius:5px;color:#bdae93}
