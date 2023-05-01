@@ -1,0 +1,39 @@
+
+/*body{font-family:Tahoma,Geneva,sans-serif;margin:auto;max-width:900px;padding:2em;}
+a{color:#858586;text-decoration:none;}
+a:hover{color:#A5A5A5;text-decoration:underline;}
+@media(prefers-color-scheme:dark){body{background:#000000;color:#FFFFFF;}}
+@media(prefers-color-scheme:light){body{background:#FFFFFF;color:#000000;}}
+table, th, td {margin: auto;border: 1px solid purple;
+  text-align: center;border-collapse: collapse;}
+@media only screen and (max-width: 512px){
+body{font-size:110%;}
+a{text-decoration:none;font-size:120%;}
+a:hover{text-decoration:none;}}
+.footer{margin-top:1em;font-size:0.75em;text-align:center;}
+.header{margin-bottom:1em}
+*/
+@font-face {
+  font-family: ubuntu;
+  src: url(/ubuntu.ttf);
+  /*font-weight: normal;*/
+}
+a{color:#858586;text-decoration:none;}
+a:hover{color:#A5A5A5;text-decoration:underline;}
+@media(prefers-color-scheme:dark){body{background:#242526;color:#FFFFFF;}}
+@media(prefers-color-scheme:light){body{background:#FFFFFF;color:#000000;}}
+body{font-family:ubuntu;
+	padding:2em;margin:auto;max-width:900px;}
+.nav{margin-bottom:1em;text-align:center;max-height:10%}
+h1{text-align:center;color:#b16286;}
+h2,h3,h4,h5,h6{color:#d3869b;}
+table,th,td{text-align:center;border-collapse:collapse;}
+.footer{margin-top:1em;font-size:0.75em;text-align:center;}
+@media only screen and (max-width:512px){
+body{font-size:110%;}
+a{text-decoration:none;font-size:125%;}
+a:hover{text-decoration:none;}}
+/*pre{background:#1d2021;width:min-content;padding:0.8em;border:1px solid #3c3836;
+  border-radius:5px;color:#bdae93}*/
+.aimg{height:100%;width:80%;object-fit:contain;}
+.himg{height:10%}
