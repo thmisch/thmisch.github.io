@@ -25,4 +25,5 @@ a:hover{text-decoration:none;}
   border-radius:5px;color:#bdae93}*/
 .aimg{height:100%;width:80%;object-fit:contain;}
 .himg{height:10%}
-.hi_you{margin:1em;color:hotpink}
+.hi_you{margin:1.2em auto 1.2em;color:hotpink}
+.art{margin-left:0.6em}
