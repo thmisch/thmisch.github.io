@@ -20,10 +20,17 @@ body{font-size:110%;}
 a{text-decoration:none;font-size:125%;}
 a:hover{text-decoration:none;}
 }
-
+/* aeherieur*/
 /*pre{background:#1d2021;width:min-content;padding:0.8em;border:1px solid #3c3836;
   border-radius:5px;color:#bdae93}*/
 .aimg{height:100%;width:80%;object-fit:contain;}
 .himg{height:10%}
 .hi_you{margin:1.2em auto 1.2em;color:hotpink}
 .art{margin-left:0.6em}
+.ximg{align:center}
+
+iframe {
+max-width: 100% !important;
+        width: auto !important;
+        height: auto !important;
+}
